@@ -21,7 +21,7 @@ Esta ferramenta normaliza a chave antes de comparar, valida os dígitos verifica
 
 ## Como rodar
 
-Precisa de Node 20 ou mais novo. Não há dependências.
+Testado no Node 22 (local e CI). Outras versões não foram testadas. Não há dependências.
 
 ```sh
 git clone https://github.com/lucas-saldanha-werneck/export-reconcile.git
