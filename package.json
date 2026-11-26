@@ -1,0 +1,9 @@
+{
+  "name": "export-reconcile",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Compare two customer exports (ERP vs CRM) and report drift",
+  "bin": { "export-reconcile": "src/cli.mjs" },
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
